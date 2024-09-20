@@ -17,9 +17,4 @@ Welcome to the Smart Home Mobile App! This application allows users to control a
 -   MAUI, C#, SQLite
 
 ## Screen Shots
-1. Login
-![enter image description here](https://github.com/TechAbbot/Smart-home-mobile-App/blob/2f249e7e55a5dd63c584fc3690d3ed52228b25be/Screenshots/Login.png?raw=true)
-2. Dashboard
-![enter image description here](https://github.com/TechAbbot/Smart-home-mobile-App/blob/main/Screenshots/Dashboard.png?raw=true)
-3. Device Control
-![enter image description here](https://github.com/TechAbbot/Smart-home-mobile-App/blob/main/Screenshots/Device_Control.png?raw=true)
+![enter image description here](https://github.com/TechAbbot/Smart-home-mobile-App/blob/main/Screenshots/Smart%20home.png?raw=true)
